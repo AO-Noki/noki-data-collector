@@ -4,7 +4,7 @@ Albion Online - Noki Data Collector
 
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States"): A tool to collect data from the Albion Online game from network packets, without interfering with the game.
 
-## PT-BR - Sobre a ferramenta
+## ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") - Sobre a ferramenta
 - [x] Coleta dados do jogo Albion Online em tempo real.
 - [x] Leitura de pacotes de rede, sem interferir no jogo.
 - [x] Respeita as regras, termos e condições do Albion Online (Albion TOS: [https://albiononline.com/terms_and_conditions]).
@@ -19,7 +19,7 @@ Albion Online - Noki Data Collector
     - [x] Jogadores: atividade, builds, estatísticas, feed de abates e mortes.
     - [x] Guildas: composição, territórios, guerras.
 
-## EN-US - About the tool
+## ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") - About the tool
 - [x] Collect data from the Albion Online game in real time.
 - [x] Read the network packets, without interfering with the game.
 - [x] Respect the Albion Online TOS (Albion TOS: [https://albiononline.com/terms_and_conditions]).
@@ -34,21 +34,21 @@ Albion Online - Noki Data Collector
     - [x] Players: activity, builds, statistics, feed of abates and deaths.
     - [x] Guilds: composition, territories, wars. 
 
-## PT-BR - Isso é Permitido
+## ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") - Isso é Permitido
 https://forum.albiononline.com/index.php/Thread/124819-Regarding-3rd-Party-Software-and-Network-Traffic-aka-do-not-cheat-Update-16-45-U/
 
-## EN-US - Is This Allowed
+## ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") - Is This Allowed
 https://forum.albiononline.com/index.php/Thread/124819-Regarding-3rd-Party-Software-and-Network-Traffic-aka-do-not-cheat-Update-16-45-U/
 
 
-## Iniciando
+## ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") - Iniciando
 
 #### Prérequisitos & Instalação
 - Você precisa do **Windows 10** ou superior
 - Instale **Python** (v12.1 ou superior) [aqui](https://www.python.org/downloads/) (Para iniciar o script)
 - Instale **Npcap** Free Edition (v1.79 ou superior) [aqui](https://npcap.com/#download) (Para o rastreamento do jogo)
 
-## Getting Started
+## ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") - Getting Started
 
 #### Prerequisites & Installation
 - you need **Windows 10** or higher
