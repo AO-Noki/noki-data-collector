@@ -1,7 +1,8 @@
 Albion Online - Noki Data Collector
 ===================
-PT-BR: Uma ferramenta para coletar dados do jogo Albion Online de forma não invasiva a partir de pacotes de rede.
-En-US: A tool to collect data from the Albion Online game from network packets, without interfering with the game.
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Uma ferramenta para coletar dados do jogo Albion Online de forma não invasiva a partir de pacotes de rede.
+
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States"): A tool to collect data from the Albion Online game from network packets, without interfering with the game.
 
 ## PT-BR - Sobre a ferramenta
 - [x] Coleta dados do jogo Albion Online em tempo real.
